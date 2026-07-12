@@ -1,0 +1,6 @@
+{
+  "name": "奇門遁甲 占卜抽卡儀",
+  "description": "一款精緻優雅的奇門遁甲占卜抽卡與提示詞生成器，提供互動式起卦與AI提問詞導航。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
