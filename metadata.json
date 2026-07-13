@@ -1,6 +1,6 @@
 {
-  "name": "奇門遁甲 占卜抽卡儀",
-  "description": "一款精緻優雅的奇門遁甲占卜抽卡與提示詞生成器，提供互動式起卦與AI提問詞導航。",
+  "name": "線上免費占卜｜東方神祕學 AI 命運指引盤",
+  "description": "免費線上占卜抽卡，結合東方神祕學與 AI 人工智慧，提供您感情、工作、創業等各方面的人生指引。",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }

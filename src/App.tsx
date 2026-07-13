@@ -85,7 +85,7 @@ export default function App() {
             <Compass className="w-5 h-5" />
           </div>
           <span className="font-serif font-bold text-sm md:text-base tracking-widest text-yellow-100 group-hover:text-yellow-200 transition-colors">
-            奇門遁甲抽卡盤
+            線上免費占卜｜AI 命運指引盤
           </span>
         </button>
 
@@ -127,7 +127,7 @@ export default function App() {
 
       {/* 底部 Footer */}
       <footer className="relative z-10 w-full text-center py-4 border-t border-purple-500/5 text-[11px] text-purple-400/40 font-serif" id="app-footer">
-        <p>© 2026 奇門遁甲 AI 提示詞大師 ‧ 專屬客製化抽卡平台</p>
+        <p>© 2026 線上免費占卜｜東方神祕學 AI 命運指引盤</p>
       </footer>
 
     </div>

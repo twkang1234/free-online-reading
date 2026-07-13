@@ -57,10 +57,10 @@ export default function WelcomeScreen({ onStart }: WelcomeScreenProps) {
 
       <div className="text-center mb-8" id="welcome-header">
         <h1 className="font-serif text-3xl md:text-4xl font-semibold text-yellow-100 tracking-wider mb-3">
-          奇門遁甲 占卜抽卡儀
+          線上免費占卜｜AI 命運指引盤
         </h1>
         <p className="text-sm md:text-base text-purple-200/80 font-sans tracking-wide">
-          「誠心啟問，奇門自答」—— 靜心求卦，探尋乾坤之理
+          「誠心啟問，為您解惑」—— 靜心抽卡，探尋東方神祕學之理
         </p>
       </div>
 
